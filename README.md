@@ -235,4 +235,4 @@ Two cpu_hog containers launched simultaneously:
 ![ps-metadata](osjack/:7.jpeg)
 
 ### 8. Clean teardown
-![ps-metadata](osjack/8.jpeg)
+![ps-metadata](osjack/:8.jpeg)
