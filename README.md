@@ -214,7 +214,7 @@ Two cpu_hog containers launched simultaneously:
 ## Screenshots
 
 ### 1. Multi-container supervision
-![multi-container](screenshots/01-multi-container.png)
+![multi-container](os jack/1.jpeg)
 
 ### 2. Metadata tracking
 ![ps-metadata](screenshots/02-ps-metadata.png)
