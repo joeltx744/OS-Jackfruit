@@ -217,22 +217,22 @@ Two cpu_hog containers launched simultaneously:
 ![ps-metadata](osjack/:1.jpeg)
 
 ### 2. Metadata tracking
-![ps-metadata](screenshots/02-ps-metadata.png)
+![ps-metadata](osjack/:2.jpeg)
 
 ### 3. Bounded-buffer logging
-![logging](screenshots/03-logging.png)
+![ps-metadata](osjack/:3.jpeg)
 
 ### 4. CLI and IPC
-![cli-ipc](screenshots/04-cli-ipc.png)
+![ps-metadata](osjack/:4.jpeg)
 
 ### 5. Soft-limit warning
-![soft-limit](screenshots/05-soft-limit.png)
+![ps-metadata](osjack/:5.jpeg)
 
 ### 6. Hard-limit enforcement
-![hard-limit](screenshots/06-hard-limit.png)
+![ps-metadata](osjack/:6.jpeg)
 
 ### 7. Scheduling experiment
-![scheduling](screenshots/07-scheduling.png)
+![ps-metadata](osjack/:7.jpeg)
 
 ### 8. Clean teardown
-![teardown](screenshots/08-teardown.png)
+![ps-metadata](osjack/8.jpeg)
